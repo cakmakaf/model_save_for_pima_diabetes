@@ -15,6 +15,6 @@ In our case, we load the model, summarize the architecture and evaluate it on th
 
 **3-** Moreoer, we'll use Decision Tree and Support Vector Machine (SVM) and; algorithms for the prediction of diabetic in pregnant women using R programming.
 
-Thplots are taken during the deployement on R. 
+The plots are created while the deployement on R. 
 
 
