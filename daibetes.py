@@ -6,7 +6,7 @@ Created on Sat Feb 20 20:17:59 2021
 @author: ahmetcakmak
 """
 
-# Beep Learning MLP model for Pima Indians Dataset 
+# Deep Learning for Pima Indians Dataset using Multilayer Perceptron (MLP)
 # Serialize to JSON and HDF5
 from keras.models import Sequential
 from keras.layers import Dense
@@ -19,7 +19,6 @@ numpy.random.seed(10)
 
 # Load PIMA Indians diabetes dataset
 dataset = pd.read_csv("diabetes.csv")
-# dataset.head()
 
 # Split into the data as input (X) and output (Y) variables
 X = dataset.iloc[:, 0:8]
