@@ -13,7 +13,7 @@ The function returns the model with the same architecture and weights.
 
 In our case, we load the model, summarize the architecture and evaluate it on the same dataset to confirm the weights and architecture are the same.
 
-**3-** Moreoer, we'll use **Decision Tree** and **Support Vector Machine (SVM)** and; algorithms for the prediction of diabetic in pregnant women using **R Programming**.
+**3-** Moreoer, we'll use **Decision Tree** and **Support Vector Machine (SVM)** algorithms for the prediction of diabetic in pregnant women using **R Programming**.
 
 The plots are created while the deployement on **R**. 
 
