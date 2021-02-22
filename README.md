@@ -2,7 +2,7 @@
 
 In this project, 
 
-**1-** We simply apply Multilayer Perceptron Algorithm and save the model to model.json file. 
+**1-** We simply apply **Multilayer Perceptron (MLP)** Algorithm and save the model to model.json file. 
 We saved the model by calling the **save()** function on the model and specifying the filename.
 
 In our case, we demonstrates this by first fitting a model, evaluating it, and saving it to the file **model.h5**.
